@@ -1,0 +1,23 @@
+{
+    "name": "Jogo da velha",
+    "short_name": "velha",
+    "icons": [
+        {
+            "src": "imagens/jogo.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "imagens/jogo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "lang": "pt-BR",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#1a1535",
+    "theme_color": "#1a1535"
+}
